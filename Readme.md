@@ -1,7 +1,7 @@
-# Hola mundo #
+# Proyecto de DataAnalytics #
  
- Este es mi segundo commit
- y esta vez es mi tercer comit
+Analizar los datos de acumulacion de CO2
+mediante MachineLearning
 
 
-# Este comit lo hare desde terminal
+
